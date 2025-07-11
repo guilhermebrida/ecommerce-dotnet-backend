@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jsW1ST/eyb5qqyBl3R8vnHinMngnrGPdFfKPuddM1Sw=",
+  "Source": "ecommerce-dotnet-backend",
+  "BasePath": "_content/ecommerce-dotnet-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
