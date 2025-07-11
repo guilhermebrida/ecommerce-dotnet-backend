@@ -1,0 +1,58 @@
+# Build
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Dotnet environment
+*.dbmdl
+*.bak
+*.log
+*.pdb
+*.cache
+*.mdb
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# EF Core tools
+Migrations/
+
+# Secrets
+secrets.json
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# node (caso tenha frontend juntos)
+node_modules/
+dist/
+
+# dotenv files
+.env
+.env.*
